@@ -6,6 +6,7 @@
 
 <p>
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/homanp/Superagent" />
+<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/homanp/Superagent" />
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/homanp/Superagent" />
 <img alt="" src="https://img.shields.io/github/repo-size/homanp/Superagent" />
 <img alt="GitHub Issues" src="https://img.shields.io/github/issues/homanp/Superagent" />
