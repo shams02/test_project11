@@ -41,7 +41,8 @@ Superagent allows you to build any AI application/microservice you want, includi
 - Content generation
 - Data aggregation
 - Workflow automation
-
+- Data aggregation
+- Workflow automation
 
 ## 👀 Features
 
