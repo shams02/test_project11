@@ -1,6 +1,6 @@
 <div align="center">
 
-# Superagent 🥷
+# Superagent
 
 ### The open framework for building AI Assistants
 
